@@ -1,0 +1,14 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+
+button {
+    border: 2px solid rgb(83, 83, 206)blue;
+    background-color: rgb(83, 83, 206);
+    color: white;
+    padding: 5px;
+}
